@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author wissa
- *
- */
-module Calculator {
-}
